@@ -1,5 +1,9 @@
 # The Runtime Detection for SOA project
 
+## Summary
+
+Provides plugins to identify and setup SOA related runtimes like ESB, Drools and jBPM.
+
 ## Install
 
 _Runtime Detection for SOA_ is part of [JBoss Tools](http://jboss.org/tools) from
