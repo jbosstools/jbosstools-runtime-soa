@@ -46,7 +46,7 @@
 		<profile>
 			<id>bootstrap</id>
 			<modules>
-				<module>../central</module>
+				<module>../jbosstools-central</module>
 			</modules>
 		</profile>
 	</profiles>	
