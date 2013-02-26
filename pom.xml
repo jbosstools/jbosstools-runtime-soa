@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.jboss.tools</groupId>
 		<artifactId>parent</artifactId>
-		<version>4.1.0.Alpha1-SNAPSHOT</version>
+		<version>4.1.0.Alpha2-SNAPSHOT</version>
 		<relativePath>../jbosstools-build/parent/pom.xml</relativePath>
 	</parent>
 	<groupId>org.jboss.tools</groupId>
@@ -42,13 +42,5 @@
                         </releases>
                 </repository>
 	</repositories>
-	<profiles>
-		<profile>
-			<id>bootstrap</id>
-			<modules>
-				<module>../central</module>
-			</modules>
-		</profile>
-	</profiles>	
 </project>
 	
