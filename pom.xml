@@ -42,13 +42,5 @@
                         </releases>
                 </repository>
 	</repositories>
-	<profiles>
-		<profile>
-			<id>bootstrap</id>
-			<modules>
-				<module>../central</module>
-			</modules>
-		</profile>
-	</profiles>	
 </project>
 	
